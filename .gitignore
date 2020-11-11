@@ -338,7 +338,3 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
-.vs/CoreThirdTools/v16/.suo
-.vs/CoreThirdTools/v16/.suo
-CoreThirdTools/bin/Debug/netcoreapp3.1/CoreThirdTools.dll
-CoreThirdTools/bin/Debug/netcoreapp3.1/CoreThirdTools.pdb
